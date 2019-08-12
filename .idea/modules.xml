@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algox.iml" filepath="$PROJECT_DIR$/algox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph-embedding/graph-embedding.iml" filepath="$PROJECT_DIR$/graph-embedding/graph-embedding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nsg/nsg.iml" filepath="$PROJECT_DIR$/nsg/nsg.iml" />
+    </modules>
+  </component>
+</project>
