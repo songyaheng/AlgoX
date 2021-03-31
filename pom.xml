@@ -11,7 +11,7 @@
     <properties>
         <scala.version>2.11.8</scala.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <guava.version>27.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <common.lang3.version>3.8.1</common.lang3.version>
         <common.io.version>2.6</common.io.version>
         <slf4j.version>1.7.25</slf4j.version>
